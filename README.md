@@ -11,7 +11,7 @@ kicad预览图
 firmware to be updated, stay tuned
 固件后续更新
 
-unzip the file named PYG_step.zip and u will get the step file of PCB
+PYG.step is the step file of PCB which represents the 3d model of PCB
 in case u need it for drawing keyboard cases
-解压PYG_step.zip文件可以得到PCB的模型
+PYG.step是PCB的模型
 为了方便大家画键盘
